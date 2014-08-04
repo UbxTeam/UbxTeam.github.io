@@ -1,0 +1,10 @@
+---
+navigation:
+- title: About
+  url: /About/
+- title: Quickstart
+  url: /Quickstart
+- title: Projects
+  url: /Tutorials
+  layout: post
+---  
