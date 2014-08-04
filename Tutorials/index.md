@@ -24,4 +24,3 @@ This page provides a list of step-by-step tutorials, grouped by category. All th
 |  [Install ubx_tools](ubx_tools/install) | Tools | Installation instruction for microblx_cmake |
 | [2-DOF Gadget](2dof_gadget) | Basic/App | An IMU Driven 2-DOF Gadget for learning Microblx |
 | [ubx web interface](webinterface) | Tools      | Learn how to use the webinterface  |
-| [generate my first package](pkg_generation) | Tools      | Start developing with cmake support |
