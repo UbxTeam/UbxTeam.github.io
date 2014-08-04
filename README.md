@@ -28,11 +28,12 @@ Microblx.org: Documentation about Microblx Framework
 - Your material will be added!
 
 ### Try the webpage locally
-Normally, Markdown files should be rendered just fine. However, you can check the result locally by installing ___jerkyll___ toolchain.
-Once you have on your computer, go to the repository root and run
+Normally, Markdown files should be rendered just fine. However, you can check the result locally by installing ___jekyll___ toolchain.
+(This includes ruby and the gems: jekyll, nokogiri, ...)
+Once you have it on your computer, go to the repository root and run
 
 ```sh
-$ jerkyll serve -w --baseurl ''
+$ jekyll serve -w --baseurl ''
 ```
 
 
