@@ -6,7 +6,7 @@ title: Install ubx_tools
 ___NOTE___: __ubx_tools__ works locally, that is running from the root folder of the project.
 However, the following guide shows an easy way to install it on your computer, such that you can use it from anywhere!
 
-___NOTE (2)___: The following installation guide conforms to the [ubx_installation_layout](). However, it is not the goal of Microblx framework to impose an installation layout to you. If you are an advance user, you can easily create your own installation script.
+___NOTE (2)___: The following installation guide conforms to the [ubx_installation_layout](/Documentation/layout_env). However, it is not the goal of Microblx framework to impose an installation layout to you. If you are an advance user, you can easily create your own installation script.
 
 ## Installation steps
 
