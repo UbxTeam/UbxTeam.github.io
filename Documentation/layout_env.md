@@ -55,8 +55,8 @@ Given a desidered installation folder ```<install-path>```, Ubx can be installed
 | -------------|----------------|----------------|
 | UBX_ROOT  | Points to Microblx root repository folder | ```$ export UBX_ROOT=<ubx-core>``` |
 | UBX_INSTALL  | Points to install root folder | ```$ export UBX_INSTALL=<install-path>``` |
-| UBX_MODULES  | -> lib/ubx | ```$ export UBX_MODULES=$UBX_INSTALL/share/ubx/modules```|
-| UBX_MODELS   | -> share/ubx/models | ```$ export UBX_MODULES=$UBX_INSTALL/share/ubx/models```|
+| UBX_MODULES  | -> lib/ubx | ```$ export UBX_MODULES=$UBX_INSTALL/lib/ubx```|
+| UBX_MODELS   | -> share/ubx/models | ```$ export UBX_MODELS=$UBX_INSTALL/share/ubx/models```|
 | UBX_METAMODELS | -> share/ubx/metamodels |  ```$ export UBX_METAMODELS=$UBX_INSTALL/share/ubx/metamodels```|
 
 ___NOTE:___ Most of the environment variables can be deduced from ```UBX_INSTALL```. However, this allows to override a default option, while keeping the others.
