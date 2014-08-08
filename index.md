@@ -32,6 +32,16 @@ Support or Contact
 
 Contact us if you have specific questions about microblx framework, specific blocks implementation you wish to share or contribute to the website documentation. Any kind of help and feedback is very welcome!!
 
+License
+-------
+
+See COPYING. The license is GPLv2 with a linking exception. It boils
+down to the following. Use microblx as you wish in free and
+proprietary applications. You can distribute binary function blocks
+modules. Only if you make changes to the core (the microblx library),
+and distribute these, then you are required to release these under the
+conditions of the GPL.
+
 Acknowledgement
 ---------------
 

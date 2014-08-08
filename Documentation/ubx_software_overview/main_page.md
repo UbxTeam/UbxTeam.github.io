@@ -49,3 +49,12 @@ There's very little difference between prototypes and instances:
 
 The default Makefile defines `-fvisibility=hidden`, so there's no need
 to prepend functions and global variables with `static`
+
+### Real-time priorities
+
+To run with real-time priorities, give the luajit binary
+`cap_sys_nice` capabilities, e.g:
+
+```
+$ sudo setcap cap_sys_nice+ep /usr/local/bin/luajit-2.0.2
+```
