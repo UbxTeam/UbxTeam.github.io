@@ -58,9 +58,13 @@ Create a source script (change the path if necessary, $HOME=/home/username):
     $ export CMAKE_PREFIX_PATH=$HOME/microblx/install/share/ubx/cmake' > sourceme.sh
 
 
-Then source the
+Then source the created script
 
-As suggested step (but not mandatory), you may want to add the previous script
+```
+$ source sourceme.sh
+```
+
+As suggested (but not mandatory) step, you may want to add the script to your _.bashrc_.
 
 Run your first demo code
 -------------

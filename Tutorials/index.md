@@ -9,9 +9,9 @@ This page provides a list of step-by-step tutorials, grouped by category. All th
 
 ### Troubles? Questions?
 
- - Did you find a problem to run the tutorials? 
- - A tutorial is not completed, or a step is not clear?
- - Do you have a particular argument not
+ - Do you have problems to running a tutorial? 
+ - Is a tutorial not complete or a step is not clear?
+ - Would you like to have a tutorial on a particular topic?
  
  If so, do not hesitate to contact us! Subscribe to our [mailinglist](http://lists.mech.kuleuven.be/mailman/listinfo/microblx)!
 
