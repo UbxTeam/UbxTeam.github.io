@@ -10,7 +10,7 @@ The current implementation is : CoMinG SoOn! :-)
 ## What is a Block?
 
 * Computation Block (cblock)
-* interaction Block (iblock)
+* Interaction Block (iblock)
 
 ## What is a Port?
 

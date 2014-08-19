@@ -4,12 +4,12 @@ title: Layout and Environment Variables
 ---
 
 This document describes the default layout suggested for the installation and used by ubx_tools.
-A set of environment variables is listed above, referring to the installation layout.
-Remember that it is not necessary to install Ubx software, but it is possible to run it locally.
+A set of environment variables is listed below, referring to the installation layout.
+Remember that it is not necessary to install the Ubx software because it is possible to run it locally.
 
-<font size="4" color="#0066FF"><b>NOTE:</b></font>The goal of Microblx is not to impose a particular layout. Feel free to change it, and have your own. We just propose a possible solution as starting point, because we found handy to have a common starting point. Furthermore, several projects about software distribution exists out of there, and we don't want to re-invent the wheel.
+<font size="4" color="#0066FF"><b>NOTE:</b></font>The goal of Microblx is not to impose a particular layout. Feel free to change it, and have your own. We just propose a possible solution as starting point, because we found it handy to have a common starting point. Furthermore, several projects about software distribution exist out there and we don't want to re-invent the wheel.
 
-<font size="4" color="#CC0000"><b>NOTE:</b></font>The Environment Variables mentioned here may be subject of changes in the near future. Please, check this page often if any change has been applied.
+<font size="4" color="#CC0000"><b>NOTE:</b></font>The Environment Variables mentioned here may be subject to changes in the near future. Please check this page often to see if any change has been applied.
 
 
 ## Installation Layout
