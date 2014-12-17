@@ -19,7 +19,6 @@ This page provides a list of step-by-step tutorials, grouped by category. All th
 
 | Tutorial Name     |   Category         | Description  |
 | ------------- |:-------------:| -----:|
-|  [My first cblock (with tools!)](c_example_with_auto/c_example_with_auto) | Basic |  Learn how to write your first cblock in Cfrom scratch, with our code generation tools (ubx_tools) |
 |  [My first cblock (manually written!)](first_cblock) | Basic |  Learn how to write manually your first cblock manually in C/C++ or Lua. Without ubx_tools! |
 |  [Install ubx_tools](ubx_tools/install) | Tools | Installation instruction for microblx_cmake |
 | [2-DOF Gadget](2dof_gadget) | Basic/App | An IMU Driven 2-DOF Gadget for learning Microblx |
